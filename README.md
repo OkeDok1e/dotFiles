@@ -1,2 +1,2 @@
 # dotFiles
-the dotfiles i made for my hyprland de
+the dotfiles i took and adjusted for my hyprland de
